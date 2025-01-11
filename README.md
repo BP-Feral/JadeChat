@@ -80,3 +80,8 @@ it is possible to wait for about 30 seconds and then press the Refresh button ag
 - [ ] Route messages through the server
 - [ ] Fix Chat app being stuck on DF search
 - [ ] Fix Shutting down entire jade platform when one client closes
+
+### Some more important objectives
+- [ ] Screenshots inside the Sniffer Agent to catch the used protocols
+- [ ] Split the functionality into different agents and Behaviors
+- [ ] Save and Resume conversations using external files
